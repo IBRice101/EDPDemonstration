@@ -1,0 +1,82 @@
+﻿<Window x:Class="EDPCalculatorApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EDPCalculatorApp"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        Title="Calculator" Height="460" Width="280">
+    <Grid Background="#282833">
+        <!--Defines rows and columns for control placement-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="70"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+
+        <!--Number buttons-->
+        <Button x:Name="btn_num0" Grid.Row="5" Grid.Column="1" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num0_Click" Height="Auto">0</Button>
+        <Button x:Name="btn_num1" Grid.Row="4" Grid.Column="0" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num1_Click" Height="Auto">1</Button>
+        <Button x:Name="btn_num2" Grid.Row="4" Grid.Column="1" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num2_Click" Height="Auto">2</Button>
+        <Button x:Name="btn_num3" Grid.Row="4" Grid.Column="2" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num3_Click" Height="Auto">3</Button>
+        <Button x:Name="btn_num4" Grid.Row="3" Grid.Column="0" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num4_Click" Height="Auto">4</Button>
+        <Button x:Name="btn_num5" Grid.Row="3" Grid.Column="1" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num5_Click" Height="Auto">5</Button>
+        <Button x:Name="btn_num6" Grid.Row="3" Grid.Column="2" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num6_Click" Height="Auto">6</Button>
+        <Button x:Name="btn_num7" Grid.Row="2" Grid.Column="0" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num7_Click" Height="Auto">7</Button>
+        <Button x:Name="btn_num8" Grid.Row="2" Grid.Column="1" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num8_Click" Height="Auto">8</Button>
+        <Button x:Name="btn_num9" Grid.Row="2" Grid.Column="2" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_num9_Click" Height="Auto">9</Button>
+
+        <!--Operators-->
+        <Button x:Name="btn_opEquals" Grid.Row="5" Grid.Column="3" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_opEquals_Click" Height="Auto">=</Button>
+        <Button x:Name="btn_opAdd" Grid.Row="4" Grid.Column="3" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_opAdd_Click" Height="Auto">+</Button>
+        <Button x:Name="btn_opSubtract" Grid.Row="3" Grid.Column="3" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_opSubtract_Click" Height="Auto">-</Button>
+        <Button x:Name="btn_opMultiply" Grid.Row="2" Grid.Column="3" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_opMultiply_Click" Height="Auto">×</Button>
+        <Button x:Name="btn_opDivide" Grid.Row="1" Grid.Column="3" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_opDivide_Click" Height="Auto">÷</Button>
+
+        <!--Additional Symbols-->
+        <Button x:Name="btn_symPositiveNegative" Content="±" Grid.Row="5" Grid.Column="0" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_symPositiveNegative_Click" Height="Auto">
+            <Button.ToolTip>
+                <ToolTip>
+                    Make Positive or Negative
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button x:Name="btn_symSmiley" Content=":)" Grid.Row="5" Grid.Column="2" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_symSmiley_Click" Height="Auto">
+            <Button.ToolTip>
+                <ToolTip>
+                    Open more content
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+
+        <!--Clear buttons-->
+        <Button x:Name="btn_clrClearEntry" Content="CE" Grid.Row="1" Grid.Column="0" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_clrClearEntry_Click" Height="Auto">
+            <Button.ToolTip>
+                <ToolTip>
+                    Clear Entry (Just this number)
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button x:Name="btn_clrClearAll" Content="C" Grid.Row="1" Grid.Column="1" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_clrClearAll_Click" Height="Auto">
+            <Button.ToolTip>
+                <ToolTip>
+                    Clear All
+                </ToolTip>
+            </Button.ToolTip>
+        </Button>
+        <Button x:Name="btn_clrBack" Grid.Row="1" Grid.Column="2" FontSize="25" Background="#282833" Foreground="#6564DB" BorderThickness="0" Click="Btn_clrBack_Click" Height="Auto">←</Button>
+
+        <!--Text display field-->
+        <TextBox x:Name="numberDisplay" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" IsReadOnly="True" TextAlignment="Right" VerticalAlignment="Bottom" FontSize="45" BorderThickness="0" Background="#282833" Foreground="#6564DB" Height="98" Padding="10" Margin="0,-27,0,0"/>
+    </Grid>
+</Window>

@@ -1,0 +1,99 @@
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.config
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.pdb
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csprojAssemblyReference.cache
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.g.cs
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.cache
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.lref
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.baml
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.g.resources
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.Properties.Resources.resources
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.GenerateResource.cache
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.pdb
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.g.cs
+C:\Users\zacky\source\repos\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.baml
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.config
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.pdb
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.g.cs
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.cache
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.lref
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.g.resources
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.Properties.Resources.resources
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.GenerateResource.cache
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.pdb
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.config
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.pdb
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csprojAssemblyReference.cache
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.g.cs
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.g.cs
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.g.cs
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.cache
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.lref
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.baml
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.baml
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.g.resources
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.Properties.Resources.resources
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.GenerateResource.cache
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CoreCompileInputs.cache
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.pdb
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CoreCompileInputs.cache
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csprojAssemblyReference.cache
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignColors.dll
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CopyComplete
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.baml
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.manifest
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.application
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe.manifest
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.application
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.g.cs
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.g.cs
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.baml
+E:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.baml
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.manifest
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.application
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignColors.dll
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.baml
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe.manifest
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.application
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CopyComplete
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.config
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe.manifest
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.application
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.exe
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\EDPCalculatorApp.pdb
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignColors.dll
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\EDPCalculatorApp\EDPCalculatorApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csprojAssemblyReference.cache
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.g.cs
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.g.cs
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.g.cs
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.cache
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp_MarkupCompile.lref
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\App.baml
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\MainWindow.baml
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\Smiley.baml
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.g.resources
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.Properties.Resources.resources
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.GenerateResource.cache
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CoreCompileInputs.cache
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe.manifest
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.application
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csproj.CopyComplete
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.exe
+C:\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.pdb
+D:\0 Programming\6 Event driven programming\U6-Files\EDPCalculatorApp\EDPCalculatorApp\obj\Debug\EDPCalculatorApp.csprojResolveAssemblyReference.cache
